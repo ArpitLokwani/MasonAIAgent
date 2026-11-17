@@ -7,11 +7,6 @@ MasonBro is a home masonry and construction services company.
 Location:
 MasonBro currently serves customers in Bangalore, India.
 
-Ownership:
-MasonBro is co-founded by Arpit Lokwani and N Sushmi.
-Arpit Lokwani is the CTO.
-N Sushmi is the Product Lead and Founder.
-
 Tagline:
 Your Trusted Mason, Just a Tap Away.
 
